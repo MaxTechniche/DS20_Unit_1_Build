@@ -1,251 +1,251 @@
-,ID,Title_Name,Year,Rating,Runtime,Genres,Release_Date,Release_Country
-0,0111161/,The Shawshank Redemption,1994,R,142,Drama,14 October 1994,USA
-1,0068646/,The Godfather,1972,R,175,"Crime, Drama",24 March 1972,USA
-2,0071562/,The Godfather: Part II,1974,R,202,"Crime, Drama",18 December 1974,USA
-3,0468569/,The Dark Knight,2008,PG-13,152,"Action, Crime, Drama",18 July 2008,USA
-4,0050083/,12 Angry Men,1957,Approved,96,"Crime, Drama",10 April 1957,USA
-5,0108052/,Schindler's List,1993,R,195,"Biography, Drama, History",4 February 1994,USA
-6,0167260/,The Lord of the Rings: The Return of the King,2003,PG-13,201,"Action, Adventure, Drama",17 December 2003,USA
-7,0110912/,Pulp Fiction,1994,R,154,"Crime, Drama",14 October 1994,USA
-8,0060196/,"The Good, the Bad and the Ugly",1966,R,178,Western,29 December 1967,USA
-9,0120737/,The Lord of the Rings: The Fellowship of the Ring,2001,PG-13,178,"Action, Adventure, Drama",19 December 2001,USA
-10,0137523/,Fight Club,1999,R,139,Drama,15 October 1999,USA
-11,0109830/,Forrest Gump,1994,PG-13,142,"Drama, Romance",6 July 1994,USA
-12,1375666/,Inception,2010,PG-13,148,"Action, Adventure, Sci-Fi",16 July 2010,USA
-13,0080684/,Star Wars: Episode V - The Empire Strikes Back,1980,PG,124,"Action, Adventure, Fantasy",20 June 1980,USA
-14,0167261/,The Lord of the Rings: The Two Towers,2002,PG-13,179,"Action, Adventure, Drama",18 December 2002,USA
-15,0133093/,The Matrix,1999,R,136,"Action, Sci-Fi",31 March 1999,USA
-16,0099685/,Goodfellas,1990,R,146,"Biography, Crime, Drama",21 September 1990,USA
-17,0073486/,One Flew Over the Cuckoo's Nest,1975,R,133,Drama,19 November 1975,USA
-18,0047478/,Seven Samurai,1954,Not Rated,207,"Action, Adventure, Drama",19 November 1956,USA
-19,0114369/,Se7en,1995,R,127,"Crime, Drama, Mystery",22 September 1995,USA
-20,0118799/,Life Is Beautiful,1997,PG-13,116,"Comedy, Drama, Romance",20 December 1997,Italy
-21,0317248/,City of God,2002,R,130,"Crime, Drama",13 February 2004,USA
-22,0102926/,The Silence of the Lambs,1991,R,118,"Crime, Drama, Thriller",14 February 1991,USA
-23,0038650/,It's a Wonderful Life,1946,PG,130,"Drama, Family, Fantasy",7 January 1947,USA
-24,0076759/,Star Wars: Episode IV - A New Hope,1977,PG,121,"Action, Adventure, Fantasy",25 May 1977,USA
-25,0120815/,Saving Private Ryan,1998,R,169,"Drama, War",24 July 1998,USA
-26,0245429/,Spirited Away,2001,PG,125,"Animation, Adventure, Family",28 March 2003,USA
-27,0120689/,The Green Mile,1999,R,189,"Crime, Drama, Fantasy",10 December 1999,USA
-28,6751668/,Parasite,2019,R,132,"Comedy, Drama, Thriller",8 November 2019,USA
-29,0816692/,Interstellar,2014,PG-13,169,"Adventure, Drama, Sci-Fi",7 November 2014,USA
-30,0110413/,Léon: The Professional,1994,R,110,"Action, Crime, Drama",18 November 1994,USA
-31,0114814/,The Usual Suspects,1995,R,106,"Crime, Mystery, Thriller",16 August 1995,USA
-32,0056058/,Harakiri,1962,Not Rated,133,"Action, Drama, Mystery",4 August 1964,USA
-33,8503618/,Hamilton,2020,PG-13,160,"Biography, Drama, History",3 July 2020,USA
-34,0110357/,The Lion King,1994,G,88,"Animation, Adventure, Drama",24 June 1994,USA
-35,0088763/,Back to the Future,1985,PG,116,"Adventure, Comedy, Sci-Fi",3 July 1985,USA
-36,0253474/,The Pianist,2002,R,150,"Biography, Drama, Music",28 March 2003,USA
-37,0103064/,Terminator 2: Judgment Day,1991,R,137,"Action, Sci-Fi",3 July 1991,USA
-38,0120586/,American History X,1998,R,119,Drama,20 November 1998,USA
-39,0027977/,Modern Times,1936,G,87,"Comedy, Drama, Family",25 February 1936,USA
-40,0054215/,Psycho,1960,R,109,"Horror, Mystery, Thriller",8 September 1960,USA
-41,0172495/,Gladiator,2000,R,155,"Action, Adventure, Drama",5 May 2000,USA
-42,0021749/,City Lights,1931,G,87,"Comedy, Drama, Romance",7 March 1931,USA
-43,0407887/,The Departed,2006,R,151,"Crime, Drama, Thriller",6 October 2006,USA
-44,1675434/,The Intouchables,2011,R,112,"Biography, Comedy, Drama",2 November 2011,France
-45,2582802/,Whiplash,2014,R,106,"Drama, Music",15 October 2014,Philippines
-46,0482571/,The Prestige,2006,PG-13,130,"Drama, Mystery, Sci-Fi",20 October 2006,USA
-47,0095327/,Grave of the Fireflies,1988,Not Rated,89,"Animation, Drama, War",26 July 1989,USA
-48,0064116/,Once Upon a Time in the West,1968,PG-13,165,Western,4 July 1969,USA
-49,0034583/,Casablanca,1942,PG,102,"Drama, Romance, War",23 January 1943,USA
-50,0095765/,Cinema Paradiso,1988,R,155,Drama,23 February 1990,USA
-51,0047396/,Rear Window,1954,PG,112,"Mystery, Thriller",eptember 1954,USA
-52,0078748/,Alien,1979,R,117,"Horror, Sci-Fi",22 June 1979,USA
-53,0078788/,Apocalypse Now,1979,R,147,"Drama, Mystery, War",15 August 1979,USA
-54,0209144/,Memento,2000,R,113,"Mystery, Thriller",25 May 2001,USA
-55,0082971/,Raiders of the Lost Ark,1981,PG,115,"Action, Adventure",12 June 1981,USA
-56,0032553/,The Great Dictator,1940,Passed,125,"Comedy, Drama, War",7 March 1941,USA
-57,7286456/,Joker,2019,R,122,"Crime, Drama, Thriller",4 October 2019,USA
-58,1853728/,Django Unchained,2012,R,165,"Drama, Western",25 December 2012,USA
-59,0405094/,The Lives of Others,2006,R,137,"Drama, Mystery, Thriller",30 March 2007,USA
-60,0050825/,Paths of Glory,1957,Approved,88,"Drama, War",25 December 1957,USA
-61,0910970/,WALL·E,2008,G,98,"Animation, Adventure, Family",27 June 2008,USA
-62,0081505/,The Shining,1980,R,146,"Drama, Horror",13 June 1980,USA
-63,4154756/,Avengers: Infinity War,2018,PG-13,149,"Action, Adventure, Sci-Fi",27 April 2018,USA
-64,0043014/,Sunset Blvd.,1950,Passed,110,"Drama, Film-Noir",29 September 1950,Australia
-65,0051201/,Witness for the Prosecution,1957,Approved,116,"Crime, Drama, Mystery",6 February 1958,USA
-66,4633694/,Spider-Man: Into the Spider-Verse,2018,PG,117,"Animation, Action, Adventure",14 December 2018,USA
-67,0119698/,Princess Mononoke,1997,PG-13,134,"Animation, Adventure, Fantasy",19 December 1997,USA
-68,0364569/,Oldboy,2003,R,120,"Action, Drama, Mystery",21 November 2003,South Korea
-69,0057012/,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,PG,95,Comedy,29 January 1964,USA
-70,1345836/,The Dark Knight Rises,2012,PG-13,164,"Action, Adventure",20 July 2012,USA
-71,0087843/,Once Upon a Time in America,1984,R,229,"Crime, Drama",1 June 1984,USA
-72,0090605/,Aliens,1986,R,137,"Action, Adventure, Sci-Fi",18 July 1986,USA
-73,4154796/,Avengers: Endgame,2019,PG-13,181,"Action, Adventure, Drama",26 April 2019,USA
-74,5311514/,Your Name.,2016,PG,106,"Animation, Drama, Fantasy",7 April 2017,USA
-75,2380307/,Coco,2017,PG,105,"Animation, Adventure, Family",22 November 2017,USA
-76,0169547/,American Beauty,1999,R,122,Drama,1 October 1999,USA
-77,0112573/,Braveheart,1995,R,178,"Biography, Drama, History",24 May 1995,USA
-78,1187043/,3 Idiots,2009,PG-13,170,"Comedy, Drama",25 December 2009,India
-79,0082096/,Das Boot,1981,R,149,"Adventure, Drama, Thriller",10 February 1982,USA
-80,0114709/,Toy Story,1995,G,81,"Animation, Adventure, Comedy",22 November 1995,USA
-81,0057565/,High and Low,1963,Not Rated,143,"Crime, Drama, Mystery",26 November 1963,USA
-82,0086879/,Amadeus,1984,R,160,"Biography, Drama, History",19 September 1984,USA
-83,0986264/,Taare Zameen Par,2007,PG,165,"Drama, Family",21 December 2007,India
-84,0086190/,Star Wars: Episode VI - Return of the Jedi,1983,PG,131,"Action, Adventure, Fantasy",25 May 1983,USA
-85,0361748/,Inglourious Basterds,2009,R,153,"Adventure, Drama, War",21 August 2009,USA
-86,8267604/,Capharnaüm,2018,R,126,Drama,20 September 2018,Lebanon
-87,0105236/,Reservoir Dogs,1992,R,99,"Crime, Drama, Thriller",2 September 1992,France
-88,0119217/,Good Will Hunting,1997,R,126,"Drama, Romance",9 January 1998,USA
-89,0062622/,2001: A Space Odyssey,1968,G,149,"Adventure, Sci-Fi",12 May 1968,UK
-90,0180093/,Requiem for a Dream,2000,R,102,Drama,15 December 2000,USA
-91,0052357/,Vertigo,1958,PG,128,"Mystery, Romance, Thriller",22 May 1958,UK
-92,0022100/,M,1931,Passed,99,"Crime, Mystery, Thriller",31 August 1931,Sweden
-93,5074352/,Dangal,2016,Not Rated,161,"Action, Biography, Drama",21 December 2016,USA
-94,0338013/,Eternal Sunshine of the Spotless Mind,2004,R,108,"Drama, Romance, Sci-Fi",19 March 2004,USA
-95,8579674/,1917,2019,R,119,"Drama, War",10 January 2020,USA
-96,2106476/,The Hunt,2012,R,115,Drama,10 January 2013,Denmark
-97,0033467/,Citizen Kane,1941,PG,119,"Drama, Mystery",5 September 1941,USA
-98,0093058/,Full Metal Jacket,1987,R,116,"Drama, War",10 July 1987,USA
-99,0040522/,Bicycle Thieves,1948,Not Rated,89,Drama,13 December 1949,USA
-100,0012349/,The Kid,1921,Passed,68,"Comedy, Drama, Family",6 February 1921,USA
-101,0066921/,A Clockwork Orange,1971,R,136,"Crime, Drama, Sci-Fi",2 February 1972,USA
-102,0053125/,North by Northwest,1959,Approved,136,"Adventure, Mystery, Thriller",8 September 1959,Australia
-103,0045152/,Singin' in the Rain,1952,G,103,"Comedy, Musical, Romance",11 April 1952,USA
-104,0208092/,Snatch,2000,R,102,"Comedy, Crime",19 January 2001,USA
-105,0086250/,Scarface,1983,R,170,"Crime, Drama",9 December 1983,USA
-106,0075314/,Taxi Driver,1976,R,114,"Crime, Drama",9 February 1976,USA
-107,0044741/,Ikiru,1952,Not Rated,143,Drama,25 March 1956,USA
-108,0056172/,Lawrence of Arabia,1962,Approved,228,"Adventure, Biography, Drama",11 December 1962,UK
-109,0211915/,Amélie,2001,R,122,"Comedy, Romance",8 February 2002,USA
-110,0435761/,Toy Story 3,2010,G,103,"Animation, Adventure, Comedy",18 June 2010,USA
-111,0070735/,The Sting,1973,PG,129,"Comedy, Crime, Drama",25 December 1973,USA
-112,0017136/,Metropolis,1927,Not Rated,153,"Drama, Sci-Fi",13 March 1927,USA
-113,1832382/,A Separation,2011,PG-13,123,"Drama, Thriller",16 March 2011,Iran
-114,0059578/,For a Few Dollars More,1965,R,132,Western,10 May 1967,USA
-115,1255953/,Incendies,2010,R,131,"Drama, Mystery, War",12 January 2011,France
-116,0053604/,The Apartment,1960,Approved,125,"Comedy, Drama, Romance",29 June 1960,Canada
-117,0036775/,Double Indemnity,1944,Passed,107,"Crime, Drama, Film-Noir",6 July 1944,USA
-118,0091251/,Come and See,1985,Not Rated,142,"Drama, War",17 October 1985,Hungary
-119,0056592/,To Kill a Mockingbird,1962,Approved,129,"Crime, Drama",16 March 1963,USA
-120,0097576/,Indiana Jones and the Last Crusade,1989,PG-13,127,"Action, Adventure",24 May 1989,USA
-121,1049413/,Up,2009,PG,96,"Animation, Adventure, Comedy",29 May 2009,USA
-122,0119488/,L.A. Confidential,1997,R,138,"Crime, Drama, Mystery",19 September 1997,USA
-123,0113277/,Heat,1995,R,170,"Crime, Drama, Thriller",15 December 1995,USA
-124,0071853/,Monty Python and the Holy Grail,1975,PG,91,"Adventure, Comedy, Fantasy",25 May 1975,UK
-125,0095016/,Die Hard,1988,R,132,"Action, Thriller",20 July 1988,USA
-126,0042876/,Rashômon,1950,Not Rated,88,"Crime, Drama, Mystery",26 December 1951,USA
-127,0055630/,Yojimbo,1961,Not Rated,110,"Action, Drama, Thriller",13 September 1961,USA
-128,0372784/,Batman Begins,2005,PG-13,140,"Action, Adventure",15 June 2005,USA
-129,6966692/,Green Book,2018,PG-13,130,"Biography, Comedy, Drama",16 November 2018,USA
-130,0363163/,Downfall,2004,R,156,"Biography, Drama, History",8 April 2005,USA
-131,0118849/,Children of Heaven,1997,PG,89,"Drama, Family, Sport",22 January 1999,USA
-132,0105695/,Unforgiven,1992,R,130,"Drama, Western",7 August 1992,USA
-133,0053291/,Some Like It Hot,1959,Passed,121,"Comedy, Music, Romance",19 March 1959,USA
-134,0089881/,Ran,1985,R,162,"Action, Drama, War",1 June 1985,Japan
-135,0066763/,Anand,1971,Not Rated,122,"Drama, Musical",12 March 1971,India
-136,0347149/,Howl's Moving Castle,2004,PG,119,"Animation, Adventure, Family",17 June 2005,USA
-137,0268978/,A Beautiful Mind,2001,PG-13,135,"Biography, Drama",4 January 2002,USA
-138,0042192/,All About Eve,1950,Passed,138,Drama,27 October 1950,USA
-139,0057115/,The Great Escape,1963,Not Rated,172,"Adventure, Drama, History",4 July 1963,USA
-140,0112641/,Casino,1995,R,178,"Crime, Drama",22 November 1995,USA
-141,0457430/,Pan's Labyrinth,2006,R,118,"Drama, Fantasy, War",19 January 2007,USA
-142,0993846/,The Wolf of Wall Street,2013,R,180,"Biography, Crime, Drama",25 December 2013,USA
-143,1305806/,The Secret in Their Eyes,2009,R,129,"Drama, Mystery, Romance",21 May 2010,USA
-144,0120735/,"Lock, Stock and Two Smoking Barrels",1998,R,107,"Action, Comedy, Crime",28 August 1998,UK
-145,0081398/,Raging Bull,1980,R,129,"Biography, Drama, Sport",19 December 1980,USA
-146,0096283/,My Neighbor Totoro,1988,G,86,"Animation, Family, Fantasy",13 July 1990,USA
-147,0469494/,There Will Be Blood,2007,R,158,Drama,25 January 2008,USA
-148,0055031/,Judgment at Nuremberg,1961,Approved,179,"Drama, War",18 December 1961,Sweden
-149,0040897/,The Treasure of the Sierra Madre,1948,Passed,126,"Adventure, Drama, Western",24 January 1948,USA
-150,5027774/,"Three Billboards Outside Ebbing, Missouri",2017,R,115,"Comedy, Crime, Drama",1 December 2017,USA
-151,0046912/,Dial M for Murder,1954,PG,105,"Crime, Thriller",29 May 1954,USA
-152,0476735/,Babam ve Oglum,2005,,112,"Drama, Family",18 November 2005,Turkey
-153,0071315/,Chinatown,1974,R,130,"Drama, Mystery, Thriller",20 June 1974,USA
-154,0015864/,The Gold Rush,1925,Passed,95,"Adventure, Comedy, Drama",13 July 1925,Brazil
-155,1130884/,Shutter Island,2010,R,138,"Mystery, Thriller",19 February 2010,USA
-156,0477348/,No Country for Old Men,2007,R,122,"Crime, Drama, Thriller",21 November 2007,USA
-157,0434409/,V for Vendetta,2005,R,132,"Action, Drama, Sci-Fi",17 March 2006,USA
-158,0050976/,The Seventh Seal,1957,Not Rated,96,"Drama, Fantasy",13 October 1958,USA
-159,2096673/,Inside Out,2015,PG,95,"Animation, Adventure, Comedy",19 June 2015,USA
-160,1291584/,Warrior,2011,PG-13,140,"Action, Drama, Sport",9 September 2011,USA
-161,0080678/,The Elephant Man,1980,PG,124,"Biography, Drama",10 October 1980,USA
-162,0117951/,Trainspotting,1996,R,93,Drama,9 August 1996,USA
-163,0167404/,The Sixth Sense,1999,PG-13,107,"Drama, Mystery, Thriller",6 August 1999,USA
-164,0084787/,The Thing,1982,R,109,"Horror, Mystery, Sci-Fi",25 June 1982,USA
-165,0107290/,Jurassic Park,1993,PG-13,127,"Action, Adventure, Sci-Fi",11 June 1993,USA
-166,0031381/,Gone with the Wind,1939,Passed,238,"Drama, History, Romance",17 January 1940,USA
-167,0120382/,The Truman Show,1998,PG,103,"Comedy, Drama, Sci-Fi",5 June 1998,USA
-168,0050986/,Wild Strawberries,1957,Not Rated,91,"Drama, Romance",22 June 1959,USA
-169,0266543/,Finding Nemo,2003,G,100,"Animation, Adventure, Comedy",30 May 2003,USA
-170,0083658/,Blade Runner,1982,R,117,"Action, Sci-Fi, Thriller",25 June 1982,USA
-171,3170832/,Room,2015,R,118,"Drama, Thriller",22 January 2016,USA
-172,0050212/,The Bridge on the River Kwai,1957,PG,161,"Adventure, Drama, War",14 December 1957,USA
-173,0079944/,Stalker,1979,Not Rated,162,"Drama, Sci-Fi",17 April 1980,Netherlands
-174,0266697/,Kill Bill: Vol. 1,2003,R,111,"Action, Crime, Thriller",10 October 2003,USA
-175,0116282/,Fargo,1996,R,98,"Crime, Drama, Thriller",5 April 1996,USA
-176,0353969/,Memories of Murder,2003,Not Rated,132,"Action, Crime, Drama",2 May 2003,South Korea
-177,0046438/,Tokyo Story,1953,Not Rated,136,Drama,13 March 1972,USA
-178,0041959/,The Third Man,1949,Approved,93,"Film-Noir, Mystery, Thriller",12 October 1949,France
-179,0047296/,On the Waterfront,1954,Approved,108,"Crime, Drama, Thriller",22 June 1954,Japan
-180,1205489/,Gran Torino,2008,R,116,Drama,9 January 2009,USA
-181,0077416/,The Deer Hunter,1978,R,183,"Drama, War",23 February 1979,USA
-182,3011894/,Wild Tales,2014,R,122,"Comedy, Drama, Thriller",21 August 2014,Argentina
-183,4729430/,Klaus,2019,PG,96,"Animation, Adventure, Comedy",15 November 2019,USA
-184,0107207/,In the Name of the Father,1993,R,133,"Biography, Drama",25 February 1994,USA
-185,0978762/,Mary and Max,2009,Not Rated,92,"Animation, Comedy, Drama",9 April 2009,Australia
-186,8108198/,Andhadhun,2018,Not Rated,139,"Crime, Thriller",5 October 2018,USA
-187,2267998/,Gone Girl,2014,R,149,"Drama, Mystery, Thriller",3 October 2014,USA
-188,2119532/,Hacksaw Ridge,2016,R,139,"Biography, Drama, History",4 November 2016,USA
-189,2278388/,The Grand Budapest Hotel,2014,R,99,"Adventure, Comedy, Crime",28 March 2014,USA
-190,0112471/,Before Sunrise,1995,R,101,"Drama, Romance",27 January 1995,USA
-191,0118715/,The Big Lebowski,1998,R,117,"Comedy, Crime, Sport",6 March 1998,USA
-192,0264464/,Catch Me If You Can,2002,PG-13,141,"Biography, Crime, Drama",25 December 2002,USA
-193,0116231/,The Bandit,1996,,128,"Crime, Drama, Thriller",29 November 1996,Turkey
-194,0060827/,Persona,1966,Not Rated,83,"Drama, Thriller",16 March 1967,USA
-195,0035446/,To Be or Not to Be,1942,Passed,99,"Comedy, War",6 March 1942,USA
-196,1950186/,Ford v Ferrari,2019,PG-13,152,"Action, Biography, Drama",15 November 2019,USA
-197,1392214/,Prisoners,2013,R,153,"Crime, Drama, Mystery",20 September 2013,USA
-198,0017925/,The General,1926,Passed,67,"Action, Adventure, Comedy",2 January 1927,USA
-199,0015324/,Sherlock Jr.,1924,Passed,45,"Action, Comedy, Romance",11 May 1924,USA
-200,0892769/,How to Train Your Dragon,2010,PG,98,"Animation, Action, Adventure",26 March 2010,USA
-201,0031679/,Mr. Smith Goes to Washington,1939,Passed,129,"Comedy, Drama",19 October 1939,USA
-202,2024544/,12 Years a Slave,2013,R,134,"Biography, Drama, History",8 November 2013,USA
-203,0072684/,Barry Lyndon,1975,PG,185,"Adventure, Drama, History",18 December 1975,USA
-204,1392190/,Mad Max: Fury Road,2015,R,120,"Action, Adventure, Sci-Fi",15 May 2015,USA
-205,0074958/,Network,1976,R,121,Drama,27 November 1976,USA
-206,0092005/,Stand by Me,1986,R,89,"Adventure, Drama",26 November 1986,USA
-207,0405159/,Million Dollar Baby,2004,PG-13,132,"Drama, Sport",28 January 2005,USA
-208,0061512/,Cool Hand Luke,1967,GP,127,"Crime, Drama",1 November 1967,USA
-209,1028532/,Hachi: A Dog's Tale,2009,G,93,"Drama, Family",12 March 2010,UK
-210,0097165/,Dead Poets Society,1989,PG,128,"Comedy, Drama",9 June 1989,USA
-211,0052618/,Ben-Hur,1959,G,212,"Adventure, Drama, History",18 November 1959,Canada
-212,0758758/,Into the Wild,2007,R,148,"Adventure, Biography, Drama",19 October 2007,USA
-213,1201607/,Harry Potter and the Deathly Hallows: Part 2,2011,PG-13,130,"Adventure, Drama, Fantasy",15 July 2011,USA
-214,0091763/,Platoon,1986,R,120,"Drama, War",6 February 1987,USA
-215,3315342/,Logan,2017,R,137,"Action, Drama, Sci-Fi",3 March 2017,USA
-216,0046268/,The Wages of Fear,1953,Not Rated,131,"Adventure, Drama, Thriller",16 February 1955,USA
-217,0079470/,Monty Python's Life of Brian,1979,R,94,Comedy,17 August 1979,USA
-218,1979320/,Rush,2013,R,123,"Action, Biography, Drama",27 September 2013,USA
-219,4016934/,The Handmaiden,2016,Not Rated,145,"Drama, Romance, Thriller",1 June 2016,South Korea
-220,0019254/,The Passion of Joan of Arc,1928,Passed,114,"Biography, Drama, History",25 October 1928,France
-221,0053198/,The 400 Blows,1959,Not Rated,99,"Crime, Drama",16 November 1959,USA
-222,0048021/,Rififi,1955,Not Rated,118,"Crime, Drama, Thriller",5 June 1956,USA
-223,0060107/,Andrei Rublev,1966,R,205,"Biography, Drama, History",October 1973,USA
-224,0395169/,Hotel Rwanda,2004,PG-13,121,"Biography, Drama, History",4 February 2005,USA
-225,1895587/,Spotlight,2015,R,129,"Biography, Crime, Drama",20 November 2015,USA
-226,0245712/,Amores Perros,2000,R,154,"Drama, Thriller",13 April 2001,USA
-227,0113247/,La Haine,1995,Not Rated,98,"Crime, Drama",23 February 1996,USA
-228,0087544/,Nausicaä of the Valley of the Wind,1984,PG,117,"Animation, Adventure, Fantasy",25 November 1987,USA
-229,0075148/,Rocky,1976,PG,120,"Drama, Sport",3 December 1976,USA
-230,0405508/,Rang De Basanti,2006,Not Rated,167,"Comedy, Drama",26 January 2006,USA
-231,1954470/,Gangs of Wasseypur,2012,R,321,"Action, Crime, Drama",22 June 2012,India
-232,0198781/,"Monsters, Inc.",2001,G,92,"Animation, Adventure, Comedy",2 November 2001,USA
-233,0032976/,Rebecca,1940,Approved,130,"Drama, Mystery, Romance",12 April 1940,USA
-234,8613070/,Portrait of a Lady on Fire,2019,R,122,"Drama, Romance",14 February 2020,USA
-235,0381681/,Before Sunset,2004,R,80,"Drama, Romance",30 July 2004,USA
-236,0118694/,In the Mood for Love,2000,PG,98,"Drama, Romance",9 March 2001,USA
-237,0025316/,It Happened One Night,1934,Approved,105,"Comedy, Romance",22 February 1934,USA
-238,4430212/,Drishyam,2015,Not Rated,163,"Crime, Drama, Mystery",31 July 2015,USA
-239,0087884/,"Paris, Texas",1984,R,145,Drama,23 August 1984,UK
-240,0018773/,The Circus,1928,Passed,72,"Comedy, Romance",29 January 1928,Canada
-241,4857264/,The Invisible Guest,2016,,106,"Crime, Drama, Mystery",6 January 2017,Spain
-242,1454029/,The Help,2011,PG-13,146,Drama,10 August 2011,USA
-243,0093779/,The Princess Bride,1987,PG,98,"Adventure, Family, Fantasy",9 October 1987,USA
-244,0058946/,The Battle of Algiers,1966,Not Rated,121,"Drama, War",20 September 1967,USA
-245,0088247/,The Terminator,1984,R,107,"Action, Sci-Fi",26 October 1984,USA
-246,10431500/,Yedinci Kogustaki Mucize,2019,,132,Drama,11 October 2019,Turkey
-247,0111495/,Three Colors: Red,1994,R,99,"Drama, Mystery, Romance",23 November 1994,USA
-248,5323662/,A Silent Voice: The Movie,2016,Not Rated,130,"Animation, Drama, Family",17 September 2016,Japan
-249,0103639/,Aladdin,1992,G,90,"Animation, Adventure, Comedy",25 November 1992,USA
+ID,Title_Name,Year,Rating,Runtime,Genres,Release_Date,Release_Country
+0111161/,The Shawshank Redemption,1994,R,142,Drama,14 October 1994,USA
+0068646/,The Godfather,1972,R,175,"Crime, Drama",24 March 1972,USA
+0071562/,The Godfather: Part II,1974,R,202,"Crime, Drama",18 December 1974,USA
+0468569/,The Dark Knight,2008,PG-13,152,"Action, Crime, Drama",18 July 2008,USA
+0050083/,12 Angry Men,1957,Approved,96,"Crime, Drama",10 April 1957,USA
+0108052/,Schindler's List,1993,R,195,"Biography, Drama, History",4 February 1994,USA
+0167260/,The Lord of the Rings: The Return of the King,2003,PG-13,201,"Action, Adventure, Drama",17 December 2003,USA
+0110912/,Pulp Fiction,1994,R,154,"Crime, Drama",14 October 1994,USA
+0060196/,"The Good, the Bad and the Ugly",1966,R,178,Western,29 December 1967,USA
+0120737/,The Lord of the Rings: The Fellowship of the Ring,2001,PG-13,178,"Action, Adventure, Drama",19 December 2001,USA
+0137523/,Fight Club,1999,R,139,Drama,15 October 1999,USA
+0109830/,Forrest Gump,1994,PG-13,142,"Drama, Romance",6 July 1994,USA
+1375666/,Inception,2010,PG-13,148,"Action, Adventure, Sci-Fi",16 July 2010,USA
+0080684/,Star Wars: Episode V - The Empire Strikes Back,1980,PG,124,"Action, Adventure, Fantasy",20 June 1980,USA
+0167261/,The Lord of the Rings: The Two Towers,2002,PG-13,179,"Action, Adventure, Drama",18 December 2002,USA
+0133093/,The Matrix,1999,R,136,"Action, Sci-Fi",31 March 1999,USA
+0099685/,Goodfellas,1990,R,146,"Biography, Crime, Drama",21 September 1990,USA
+0073486/,One Flew Over the Cuckoo's Nest,1975,R,133,Drama,19 November 1975,USA
+0047478/,Seven Samurai,1954,Not Rated,207,"Action, Adventure, Drama",19 November 1956,USA
+0114369/,Se7en,1995,R,127,"Crime, Drama, Mystery",22 September 1995,USA
+0118799/,Life Is Beautiful,1997,PG-13,116,"Comedy, Drama, Romance",20 December 1997,Italy
+0317248/,City of God,2002,R,130,"Crime, Drama",13 February 2004,USA
+0102926/,The Silence of the Lambs,1991,R,118,"Crime, Drama, Thriller",14 February 1991,USA
+0038650/,It's a Wonderful Life,1946,PG,130,"Drama, Family, Fantasy",7 January 1947,USA
+0076759/,Star Wars: Episode IV - A New Hope,1977,PG,121,"Action, Adventure, Fantasy",25 May 1977,USA
+0120815/,Saving Private Ryan,1998,R,169,"Drama, War",24 July 1998,USA
+0245429/,Spirited Away,2001,PG,125,"Animation, Adventure, Family",28 March 2003,USA
+0120689/,The Green Mile,1999,R,189,"Crime, Drama, Fantasy",10 December 1999,USA
+6751668/,Parasite,2019,R,132,"Comedy, Drama, Thriller",8 November 2019,USA
+0816692/,Interstellar,2014,PG-13,169,"Adventure, Drama, Sci-Fi",7 November 2014,USA
+0110413/,Léon: The Professional,1994,R,110,"Action, Crime, Drama",18 November 1994,USA
+0114814/,The Usual Suspects,1995,R,106,"Crime, Mystery, Thriller",16 August 1995,USA
+0056058/,Harakiri,1962,Not Rated,133,"Action, Drama, Mystery",4 August 1964,USA
+8503618/,Hamilton,2020,PG-13,160,"Biography, Drama, History",3 July 2020,USA
+0110357/,The Lion King,1994,G,88,"Animation, Adventure, Drama",24 June 1994,USA
+0088763/,Back to the Future,1985,PG,116,"Adventure, Comedy, Sci-Fi",3 July 1985,USA
+0253474/,The Pianist,2002,R,150,"Biography, Drama, Music",28 March 2003,USA
+0103064/,Terminator 2: Judgment Day,1991,R,137,"Action, Sci-Fi",3 July 1991,USA
+0120586/,American History X,1998,R,119,Drama,20 November 1998,USA
+0027977/,Modern Times,1936,G,87,"Comedy, Drama, Family",25 February 1936,USA
+0054215/,Psycho,1960,R,109,"Horror, Mystery, Thriller",8 September 1960,USA
+0172495/,Gladiator,2000,R,155,"Action, Adventure, Drama",5 May 2000,USA
+0021749/,City Lights,1931,G,87,"Comedy, Drama, Romance",7 March 1931,USA
+0407887/,The Departed,2006,R,151,"Crime, Drama, Thriller",6 October 2006,USA
+1675434/,The Intouchables,2011,R,112,"Biography, Comedy, Drama",2 November 2011,France
+2582802/,Whiplash,2014,R,106,"Drama, Music",15 October 2014,Philippines
+0482571/,The Prestige,2006,PG-13,130,"Drama, Mystery, Sci-Fi",20 October 2006,USA
+0095327/,Grave of the Fireflies,1988,Not Rated,89,"Animation, Drama, War",26 July 1989,USA
+0064116/,Once Upon a Time in the West,1968,PG-13,165,Western,4 July 1969,USA
+0034583/,Casablanca,1942,PG,102,"Drama, Romance, War",23 January 1943,USA
+0095765/,Cinema Paradiso,1988,R,155,Drama,23 February 1990,USA
+0047396/,Rear Window,1954,PG,112,"Mystery, Thriller",eptember 1954,USA
+0078748/,Alien,1979,R,117,"Horror, Sci-Fi",22 June 1979,USA
+0078788/,Apocalypse Now,1979,R,147,"Drama, Mystery, War",15 August 1979,USA
+0209144/,Memento,2000,R,113,"Mystery, Thriller",25 May 2001,USA
+0082971/,Raiders of the Lost Ark,1981,PG,115,"Action, Adventure",12 June 1981,USA
+0032553/,The Great Dictator,1940,Passed,125,"Comedy, Drama, War",7 March 1941,USA
+7286456/,Joker,2019,R,122,"Crime, Drama, Thriller",4 October 2019,USA
+1853728/,Django Unchained,2012,R,165,"Drama, Western",25 December 2012,USA
+0405094/,The Lives of Others,2006,R,137,"Drama, Mystery, Thriller",30 March 2007,USA
+0050825/,Paths of Glory,1957,Approved,88,"Drama, War",25 December 1957,USA
+0910970/,WALL·E,2008,G,98,"Animation, Adventure, Family",27 June 2008,USA
+0081505/,The Shining,1980,R,146,"Drama, Horror",13 June 1980,USA
+4154756/,Avengers: Infinity War,2018,PG-13,149,"Action, Adventure, Sci-Fi",27 April 2018,USA
+0043014/,Sunset Blvd.,1950,Passed,110,"Drama, Film-Noir",29 September 1950,Australia
+0051201/,Witness for the Prosecution,1957,Approved,116,"Crime, Drama, Mystery",6 February 1958,USA
+4633694/,Spider-Man: Into the Spider-Verse,2018,PG,117,"Animation, Action, Adventure",14 December 2018,USA
+0119698/,Princess Mononoke,1997,PG-13,134,"Animation, Adventure, Fantasy",19 December 1997,USA
+0364569/,Oldboy,2003,R,120,"Action, Drama, Mystery",21 November 2003,South Korea
+0057012/,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,PG,95,Comedy,29 January 1964,USA
+1345836/,The Dark Knight Rises,2012,PG-13,164,"Action, Adventure",20 July 2012,USA
+0087843/,Once Upon a Time in America,1984,R,229,"Crime, Drama",1 June 1984,USA
+0090605/,Aliens,1986,R,137,"Action, Adventure, Sci-Fi",18 July 1986,USA
+4154796/,Avengers: Endgame,2019,PG-13,181,"Action, Adventure, Drama",26 April 2019,USA
+5311514/,Your Name.,2016,PG,106,"Animation, Drama, Fantasy",7 April 2017,USA
+2380307/,Coco,2017,PG,105,"Animation, Adventure, Family",22 November 2017,USA
+0169547/,American Beauty,1999,R,122,Drama,1 October 1999,USA
+0112573/,Braveheart,1995,R,178,"Biography, Drama, History",24 May 1995,USA
+1187043/,3 Idiots,2009,PG-13,170,"Comedy, Drama",25 December 2009,India
+0082096/,Das Boot,1981,R,149,"Adventure, Drama, Thriller",10 February 1982,USA
+0114709/,Toy Story,1995,G,81,"Animation, Adventure, Comedy",22 November 1995,USA
+0057565/,High and Low,1963,Not Rated,143,"Crime, Drama, Mystery",26 November 1963,USA
+0086879/,Amadeus,1984,R,160,"Biography, Drama, History",19 September 1984,USA
+0986264/,Taare Zameen Par,2007,PG,165,"Drama, Family",21 December 2007,India
+0086190/,Star Wars: Episode VI - Return of the Jedi,1983,PG,131,"Action, Adventure, Fantasy",25 May 1983,USA
+0361748/,Inglourious Basterds,2009,R,153,"Adventure, Drama, War",21 August 2009,USA
+8267604/,Capharnaüm,2018,R,126,Drama,20 September 2018,Lebanon
+0105236/,Reservoir Dogs,1992,R,99,"Crime, Drama, Thriller",2 September 1992,France
+0119217/,Good Will Hunting,1997,R,126,"Drama, Romance",9 January 1998,USA
+0062622/,2001: A Space Odyssey,1968,G,149,"Adventure, Sci-Fi",12 May 1968,UK
+0180093/,Requiem for a Dream,2000,R,102,Drama,15 December 2000,USA
+0052357/,Vertigo,1958,PG,128,"Mystery, Romance, Thriller",22 May 1958,UK
+0022100/,M,1931,Passed,99,"Crime, Mystery, Thriller",31 August 1931,Sweden
+5074352/,Dangal,2016,Not Rated,161,"Action, Biography, Drama",21 December 2016,USA
+0338013/,Eternal Sunshine of the Spotless Mind,2004,R,108,"Drama, Romance, Sci-Fi",19 March 2004,USA
+8579674/,1917,2019,R,119,"Drama, War",10 January 2020,USA
+2106476/,The Hunt,2012,R,115,Drama,10 January 2013,Denmark
+0033467/,Citizen Kane,1941,PG,119,"Drama, Mystery",5 September 1941,USA
+0093058/,Full Metal Jacket,1987,R,116,"Drama, War",10 July 1987,USA
+0040522/,Bicycle Thieves,1948,Not Rated,89,Drama,13 December 1949,USA
+0012349/,The Kid,1921,Passed,68,"Comedy, Drama, Family",6 February 1921,USA
+0066921/,A Clockwork Orange,1971,R,136,"Crime, Drama, Sci-Fi",2 February 1972,USA
+0053125/,North by Northwest,1959,Approved,136,"Adventure, Mystery, Thriller",8 September 1959,Australia
+0045152/,Singin' in the Rain,1952,G,103,"Comedy, Musical, Romance",11 April 1952,USA
+0208092/,Snatch,2000,R,102,"Comedy, Crime",19 January 2001,USA
+0086250/,Scarface,1983,R,170,"Crime, Drama",9 December 1983,USA
+0075314/,Taxi Driver,1976,R,114,"Crime, Drama",9 February 1976,USA
+0044741/,Ikiru,1952,Not Rated,143,Drama,25 March 1956,USA
+0056172/,Lawrence of Arabia,1962,Approved,228,"Adventure, Biography, Drama",11 December 1962,UK
+0211915/,Amélie,2001,R,122,"Comedy, Romance",8 February 2002,USA
+0435761/,Toy Story 3,2010,G,103,"Animation, Adventure, Comedy",18 June 2010,USA
+0070735/,The Sting,1973,PG,129,"Comedy, Crime, Drama",25 December 1973,USA
+0017136/,Metropolis,1927,Not Rated,153,"Drama, Sci-Fi",13 March 1927,USA
+1832382/,A Separation,2011,PG-13,123,"Drama, Thriller",16 March 2011,Iran
+0059578/,For a Few Dollars More,1965,R,132,Western,10 May 1967,USA
+1255953/,Incendies,2010,R,131,"Drama, Mystery, War",12 January 2011,France
+0053604/,The Apartment,1960,Approved,125,"Comedy, Drama, Romance",29 June 1960,Canada
+0036775/,Double Indemnity,1944,Passed,107,"Crime, Drama, Film-Noir",6 July 1944,USA
+0091251/,Come and See,1985,Not Rated,142,"Drama, War",17 October 1985,Hungary
+0056592/,To Kill a Mockingbird,1962,Approved,129,"Crime, Drama",16 March 1963,USA
+0097576/,Indiana Jones and the Last Crusade,1989,PG-13,127,"Action, Adventure",24 May 1989,USA
+1049413/,Up,2009,PG,96,"Animation, Adventure, Comedy",29 May 2009,USA
+0119488/,L.A. Confidential,1997,R,138,"Crime, Drama, Mystery",19 September 1997,USA
+0113277/,Heat,1995,R,170,"Crime, Drama, Thriller",15 December 1995,USA
+0071853/,Monty Python and the Holy Grail,1975,PG,91,"Adventure, Comedy, Fantasy",25 May 1975,UK
+0095016/,Die Hard,1988,R,132,"Action, Thriller",20 July 1988,USA
+0042876/,Rashômon,1950,Not Rated,88,"Crime, Drama, Mystery",26 December 1951,USA
+0055630/,Yojimbo,1961,Not Rated,110,"Action, Drama, Thriller",13 September 1961,USA
+0372784/,Batman Begins,2005,PG-13,140,"Action, Adventure",15 June 2005,USA
+6966692/,Green Book,2018,PG-13,130,"Biography, Comedy, Drama",16 November 2018,USA
+0363163/,Downfall,2004,R,156,"Biography, Drama, History",8 April 2005,USA
+0118849/,Children of Heaven,1997,PG,89,"Drama, Family, Sport",22 January 1999,USA
+0105695/,Unforgiven,1992,R,130,"Drama, Western",7 August 1992,USA
+0053291/,Some Like It Hot,1959,Passed,121,"Comedy, Music, Romance",19 March 1959,USA
+0089881/,Ran,1985,R,162,"Action, Drama, War",1 June 1985,Japan
+0066763/,Anand,1971,Not Rated,122,"Drama, Musical",12 March 1971,India
+0347149/,Howl's Moving Castle,2004,PG,119,"Animation, Adventure, Family",17 June 2005,USA
+0268978/,A Beautiful Mind,2001,PG-13,135,"Biography, Drama",4 January 2002,USA
+0042192/,All About Eve,1950,Passed,138,Drama,27 October 1950,USA
+0057115/,The Great Escape,1963,Not Rated,172,"Adventure, Drama, History",4 July 1963,USA
+0112641/,Casino,1995,R,178,"Crime, Drama",22 November 1995,USA
+0457430/,Pan's Labyrinth,2006,R,118,"Drama, Fantasy, War",19 January 2007,USA
+0993846/,The Wolf of Wall Street,2013,R,180,"Biography, Crime, Drama",25 December 2013,USA
+1305806/,The Secret in Their Eyes,2009,R,129,"Drama, Mystery, Romance",21 May 2010,USA
+0120735/,"Lock, Stock and Two Smoking Barrels",1998,R,107,"Action, Comedy, Crime",28 August 1998,UK
+0081398/,Raging Bull,1980,R,129,"Biography, Drama, Sport",19 December 1980,USA
+0096283/,My Neighbor Totoro,1988,G,86,"Animation, Family, Fantasy",13 July 1990,USA
+0469494/,There Will Be Blood,2007,R,158,Drama,25 January 2008,USA
+0055031/,Judgment at Nuremberg,1961,Approved,179,"Drama, War",18 December 1961,Sweden
+0040897/,The Treasure of the Sierra Madre,1948,Passed,126,"Adventure, Drama, Western",24 January 1948,USA
+5027774/,"Three Billboards Outside Ebbing, Missouri",2017,R,115,"Comedy, Crime, Drama",1 December 2017,USA
+0046912/,Dial M for Murder,1954,PG,105,"Crime, Thriller",29 May 1954,USA
+0476735/,Babam ve Oglum,2005,,112,"Drama, Family",18 November 2005,Turkey
+0071315/,Chinatown,1974,R,130,"Drama, Mystery, Thriller",20 June 1974,USA
+0015864/,The Gold Rush,1925,Passed,95,"Adventure, Comedy, Drama",13 July 1925,Brazil
+1130884/,Shutter Island,2010,R,138,"Mystery, Thriller",19 February 2010,USA
+0477348/,No Country for Old Men,2007,R,122,"Crime, Drama, Thriller",21 November 2007,USA
+0434409/,V for Vendetta,2005,R,132,"Action, Drama, Sci-Fi",17 March 2006,USA
+0050976/,The Seventh Seal,1957,Not Rated,96,"Drama, Fantasy",13 October 1958,USA
+2096673/,Inside Out,2015,PG,95,"Animation, Adventure, Comedy",19 June 2015,USA
+1291584/,Warrior,2011,PG-13,140,"Action, Drama, Sport",9 September 2011,USA
+0080678/,The Elephant Man,1980,PG,124,"Biography, Drama",10 October 1980,USA
+0117951/,Trainspotting,1996,R,93,Drama,9 August 1996,USA
+0167404/,The Sixth Sense,1999,PG-13,107,"Drama, Mystery, Thriller",6 August 1999,USA
+0084787/,The Thing,1982,R,109,"Horror, Mystery, Sci-Fi",25 June 1982,USA
+0107290/,Jurassic Park,1993,PG-13,127,"Action, Adventure, Sci-Fi",11 June 1993,USA
+0031381/,Gone with the Wind,1939,Passed,238,"Drama, History, Romance",17 January 1940,USA
+0120382/,The Truman Show,1998,PG,103,"Comedy, Drama, Sci-Fi",5 June 1998,USA
+0050986/,Wild Strawberries,1957,Not Rated,91,"Drama, Romance",22 June 1959,USA
+0266543/,Finding Nemo,2003,G,100,"Animation, Adventure, Comedy",30 May 2003,USA
+0083658/,Blade Runner,1982,R,117,"Action, Sci-Fi, Thriller",25 June 1982,USA
+3170832/,Room,2015,R,118,"Drama, Thriller",22 January 2016,USA
+0050212/,The Bridge on the River Kwai,1957,PG,161,"Adventure, Drama, War",14 December 1957,USA
+0079944/,Stalker,1979,Not Rated,162,"Drama, Sci-Fi",17 April 1980,Netherlands
+0266697/,Kill Bill: Vol. 1,2003,R,111,"Action, Crime, Thriller",10 October 2003,USA
+0116282/,Fargo,1996,R,98,"Crime, Drama, Thriller",5 April 1996,USA
+0353969/,Memories of Murder,2003,Not Rated,132,"Action, Crime, Drama",2 May 2003,South Korea
+0046438/,Tokyo Story,1953,Not Rated,136,Drama,13 March 1972,USA
+0041959/,The Third Man,1949,Approved,93,"Film-Noir, Mystery, Thriller",12 October 1949,France
+0047296/,On the Waterfront,1954,Approved,108,"Crime, Drama, Thriller",22 June 1954,Japan
+1205489/,Gran Torino,2008,R,116,Drama,9 January 2009,USA
+0077416/,The Deer Hunter,1978,R,183,"Drama, War",23 February 1979,USA
+3011894/,Wild Tales,2014,R,122,"Comedy, Drama, Thriller",21 August 2014,Argentina
+4729430/,Klaus,2019,PG,96,"Animation, Adventure, Comedy",15 November 2019,USA
+0107207/,In the Name of the Father,1993,R,133,"Biography, Drama",25 February 1994,USA
+0978762/,Mary and Max,2009,Not Rated,92,"Animation, Comedy, Drama",9 April 2009,Australia
+8108198/,Andhadhun,2018,Not Rated,139,"Crime, Thriller",5 October 2018,USA
+2267998/,Gone Girl,2014,R,149,"Drama, Mystery, Thriller",3 October 2014,USA
+2119532/,Hacksaw Ridge,2016,R,139,"Biography, Drama, History",4 November 2016,USA
+2278388/,The Grand Budapest Hotel,2014,R,99,"Adventure, Comedy, Crime",28 March 2014,USA
+0112471/,Before Sunrise,1995,R,101,"Drama, Romance",27 January 1995,USA
+0118715/,The Big Lebowski,1998,R,117,"Comedy, Crime, Sport",6 March 1998,USA
+0264464/,Catch Me If You Can,2002,PG-13,141,"Biography, Crime, Drama",25 December 2002,USA
+0116231/,The Bandit,1996,,128,"Crime, Drama, Thriller",29 November 1996,Turkey
+0060827/,Persona,1966,Not Rated,83,"Drama, Thriller",16 March 1967,USA
+0035446/,To Be or Not to Be,1942,Passed,99,"Comedy, War",6 March 1942,USA
+1950186/,Ford v Ferrari,2019,PG-13,152,"Action, Biography, Drama",15 November 2019,USA
+1392214/,Prisoners,2013,R,153,"Crime, Drama, Mystery",20 September 2013,USA
+0017925/,The General,1926,Passed,67,"Action, Adventure, Comedy",2 January 1927,USA
+0015324/,Sherlock Jr.,1924,Passed,45,"Action, Comedy, Romance",11 May 1924,USA
+0892769/,How to Train Your Dragon,2010,PG,98,"Animation, Action, Adventure",26 March 2010,USA
+0031679/,Mr. Smith Goes to Washington,1939,Passed,129,"Comedy, Drama",19 October 1939,USA
+2024544/,12 Years a Slave,2013,R,134,"Biography, Drama, History",8 November 2013,USA
+0072684/,Barry Lyndon,1975,PG,185,"Adventure, Drama, History",18 December 1975,USA
+1392190/,Mad Max: Fury Road,2015,R,120,"Action, Adventure, Sci-Fi",15 May 2015,USA
+0074958/,Network,1976,R,121,Drama,27 November 1976,USA
+0092005/,Stand by Me,1986,R,89,"Adventure, Drama",26 November 1986,USA
+0405159/,Million Dollar Baby,2004,PG-13,132,"Drama, Sport",28 January 2005,USA
+0061512/,Cool Hand Luke,1967,GP,127,"Crime, Drama",1 November 1967,USA
+1028532/,Hachi: A Dog's Tale,2009,G,93,"Drama, Family",12 March 2010,UK
+0097165/,Dead Poets Society,1989,PG,128,"Comedy, Drama",9 June 1989,USA
+0052618/,Ben-Hur,1959,G,212,"Adventure, Drama, History",18 November 1959,Canada
+0758758/,Into the Wild,2007,R,148,"Adventure, Biography, Drama",19 October 2007,USA
+1201607/,Harry Potter and the Deathly Hallows: Part 2,2011,PG-13,130,"Adventure, Drama, Fantasy",15 July 2011,USA
+0091763/,Platoon,1986,R,120,"Drama, War",6 February 1987,USA
+3315342/,Logan,2017,R,137,"Action, Drama, Sci-Fi",3 March 2017,USA
+0046268/,The Wages of Fear,1953,Not Rated,131,"Adventure, Drama, Thriller",16 February 1955,USA
+0079470/,Monty Python's Life of Brian,1979,R,94,Comedy,17 August 1979,USA
+1979320/,Rush,2013,R,123,"Action, Biography, Drama",27 September 2013,USA
+4016934/,The Handmaiden,2016,Not Rated,145,"Drama, Romance, Thriller",1 June 2016,South Korea
+0019254/,The Passion of Joan of Arc,1928,Passed,114,"Biography, Drama, History",25 October 1928,France
+0053198/,The 400 Blows,1959,Not Rated,99,"Crime, Drama",16 November 1959,USA
+0048021/,Rififi,1955,Not Rated,118,"Crime, Drama, Thriller",5 June 1956,USA
+0060107/,Andrei Rublev,1966,R,205,"Biography, Drama, History",October 1973,USA
+0395169/,Hotel Rwanda,2004,PG-13,121,"Biography, Drama, History",4 February 2005,USA
+1895587/,Spotlight,2015,R,129,"Biography, Crime, Drama",20 November 2015,USA
+0245712/,Amores Perros,2000,R,154,"Drama, Thriller",13 April 2001,USA
+0113247/,La Haine,1995,Not Rated,98,"Crime, Drama",23 February 1996,USA
+0087544/,Nausicaä of the Valley of the Wind,1984,PG,117,"Animation, Adventure, Fantasy",25 November 1987,USA
+0075148/,Rocky,1976,PG,120,"Drama, Sport",3 December 1976,USA
+0405508/,Rang De Basanti,2006,Not Rated,167,"Comedy, Drama",26 January 2006,USA
+1954470/,Gangs of Wasseypur,2012,R,321,"Action, Crime, Drama",22 June 2012,India
+0198781/,"Monsters, Inc.",2001,G,92,"Animation, Adventure, Comedy",2 November 2001,USA
+0032976/,Rebecca,1940,Approved,130,"Drama, Mystery, Romance",12 April 1940,USA
+8613070/,Portrait of a Lady on Fire,2019,R,122,"Drama, Romance",14 February 2020,USA
+0381681/,Before Sunset,2004,R,80,"Drama, Romance",30 July 2004,USA
+0118694/,In the Mood for Love,2000,PG,98,"Drama, Romance",9 March 2001,USA
+0025316/,It Happened One Night,1934,Approved,105,"Comedy, Romance",22 February 1934,USA
+4430212/,Drishyam,2015,Not Rated,163,"Crime, Drama, Mystery",31 July 2015,USA
+0087884/,"Paris, Texas",1984,R,145,Drama,23 August 1984,UK
+0018773/,The Circus,1928,Passed,72,"Comedy, Romance",29 January 1928,Canada
+4857264/,The Invisible Guest,2016,,106,"Crime, Drama, Mystery",6 January 2017,Spain
+1454029/,The Help,2011,PG-13,146,Drama,10 August 2011,USA
+0093779/,The Princess Bride,1987,PG,98,"Adventure, Family, Fantasy",9 October 1987,USA
+0058946/,The Battle of Algiers,1966,Not Rated,121,"Drama, War",20 September 1967,USA
+0088247/,The Terminator,1984,R,107,"Action, Sci-Fi",26 October 1984,USA
+10431500/,Yedinci Kogustaki Mucize,2019,,132,Drama,11 October 2019,Turkey
+0111495/,Three Colors: Red,1994,R,99,"Drama, Mystery, Romance",23 November 1994,USA
+5323662/,A Silent Voice: The Movie,2016,Not Rated,130,"Animation, Drama, Family",17 September 2016,Japan
+0103639/,Aladdin,1992,G,90,"Animation, Adventure, Comedy",25 November 1992,USA
