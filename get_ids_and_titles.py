@@ -17,5 +17,5 @@ movie_titles = {title['href'][9:-1]:title.text for title in movie_links}
 with open('top250imdblist.csv', 'w') as file:
     file.write('ID,Title_Name,Year\n')
     for id_, name, year in zip(movie_titles.keys(), movie_titles.values(), movie_years):
-        file.write(id_ + ',' + '"' + name + '",' + year[1:-1] + '\n')
+        file.write(id_ + '/,"' + name + '",' + year[1:-1] + '\n')
 
